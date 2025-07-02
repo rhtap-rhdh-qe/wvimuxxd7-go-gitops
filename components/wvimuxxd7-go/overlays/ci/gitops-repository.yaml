@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wvimuxxd7-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wvimuxxd7-go-gitops
